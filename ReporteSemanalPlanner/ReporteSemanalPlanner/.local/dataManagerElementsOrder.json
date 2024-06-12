@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "fechaHoy&",
+        "sinFiltrarDT&",
+        "enRevisionDT&",
+        "enCursoDT&",
+        "resueltoDT&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "routingReporte&Sequence_1",
+        "fechaReporte&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExtraerDatosInterno.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "fechaHoy&Sequence_2",
+        "sinFiltrarDT&Sequence_2",
+        "enRevisionDT&Sequence_2",
+        "enCursoDT&Sequence_2",
+        "resueltoDT&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_RoutingReporte"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
