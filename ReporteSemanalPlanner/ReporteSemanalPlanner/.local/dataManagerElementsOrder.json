@@ -3,13 +3,7 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "fechaHoy&",
-        "sinFiltrarDT&",
-        "enRevisionDT&",
-        "enCursoDT&",
-        "resueltoDT&"
-      ],
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -29,6 +23,8 @@
       "Path": "ExtraerDatosInterno.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "sinDeposito&Sequence_3",
+        "sinFiltrarSemana&Sequence_3",
         "fechaHoy&Sequence_2",
         "sinFiltrarDT&Sequence_2",
         "enRevisionDT&Sequence_2",
